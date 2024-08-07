@@ -1,0 +1,4 @@
+2024/8/7 maya updata 
+一，此文档为材质节点文档，更新相关操作和疑问，后续可以填坑。
+1，关于材质凹凸
+材质凹凸首先要有黑白图，而在blinn1材质中，可以把Albedo分别给到color和bumpmap中，首先做个测试，赋予一个基础面片该材质和贴图，bump map。使用基础maya software rending 渲染。
